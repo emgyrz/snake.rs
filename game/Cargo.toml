@@ -1,0 +1,19 @@
+[package]
+name = "snake_rs_example"
+version = "0.1.0"
+authors = ["mz <emgyrz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+piston = "0.52.0"
+piston_window = "0.112.0"
+piston2d-graphics = "0.37.0"
+pistoncore-glutin_window = "0.66.0"
+piston2d-opengl_graphics = "0.74.0"
+colorsys = "0.5.7"
+image = "*"
+lazy_static = "1.4.0"
+#glutin = "*"
+dirs = "3.0.1"
+piston2d-sprite = "0.61.0"
+snake_ctrl = { path = "../ctrl" }
