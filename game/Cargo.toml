@@ -1,5 +1,5 @@
 [package]
-name = "snake_rs_example"
+name = "snake_game_rs"
 version = "0.1.0"
 authors = ["mz <emgyrz@gmail.com>"]
 edition = "2018"
