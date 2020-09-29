@@ -1,6 +1,6 @@
 # (Snake game).rs
 
-One more snake game. 
+Another snake game. 
 Made for fun using [piston](https://github.com/PistonDevelopers/piston) game engine 
 and sprites from [here](https://github.com/rembound/Snake-Game-HTML5). 
 Thanks to both!
